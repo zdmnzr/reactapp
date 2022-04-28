@@ -1,0 +1,8 @@
+.agentPropsBox{
+    height: 400px;
+    width: 600px;
+    background-color: rgb(141, 134, 134);
+    border-radius: 80px;
+    margin: 100px auto;
+    z-index: 555;
+}

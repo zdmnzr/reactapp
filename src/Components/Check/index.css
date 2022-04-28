@@ -1,0 +1,38 @@
+.checkBox{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: rgb(210, 242, 255);
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.checkLeft{
+    width: 500px;
+    flex-grow: 5;
+    background-color: rgb(240, 250, 255);
+    height: 100%;
+    border: 10px solid rgb(215, 215, 215);
+}
+
+.checkRight{
+    width: 500px;
+    flex-grow: 5;
+    background-color: rgb(117, 241, 129);
+    height: 100%;
+    border: 10px solid rgb(203, 203, 203);
+ 
+}
+
+
+.assets{
+    margin:50px auto;
+    width:560px;
+    height:500px;
+    background-color:rgb(185, 229, 255);
+    padding:20px;
+    border-radius: 10px;
+    overflow: auto;
+    
+}

@@ -1,0 +1,49 @@
+.RightBarForItem{
+    background-color: rgb(128, 214, 230);
+    width: 18%;
+}
+.lineButton{
+    display: block;
+    width: 80px;
+    margin: 0px auto;
+}
+.delItem{
+    display: block;
+    margin: 15px auto;
+}
+
+.sizeItem{
+    display: inline-block;
+    margin: 15px 26px;
+}
+
+.imgRightBar{
+    display: block;
+    margin: 20px auto;
+    
+}
+.itemIdInRight{
+    margin-top: -55px;
+    margin-left: 70px;
+    margin-bottom: 30px;
+}
+.contentItem{
+    display: block;
+    margin: 20px auto;
+    margin-bottom: 50px;
+}
+
+/* .sons{
+    border: 1px solid red;
+    width: 200px;
+    height: 100px;
+    margin: 0px auto;
+} */
+
+.renwuProps{
+    width: 200px;
+    margin: 10px auto;
+    border-radius: 10px;
+    border: 2px dashed rgb(21, 93, 182);
+    padding: 4px;
+}

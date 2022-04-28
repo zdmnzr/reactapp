@@ -1,0 +1,11 @@
+.type{
+    height: 12px;
+    /* width: 30px; */
+    font-size: 12px;
+    margin: 0px auto;
+    position: absolute;
+    line-height: 12px;
+    top: -6px;
+    background-color: #fff;
+
+}

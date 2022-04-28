@@ -1,0 +1,51 @@
+/* .itemContent{ */
+    /* background-color: rgb(218, 69, 69); */
+    /* width: 70px;
+    height: 40px;
+    margin: 30px auto;
+    text-align: center;
+    white-space: pre-wrap;
+    word-break: break-all; */
+    /* background-color: aquamarine; */
+/* } */
+
+.itemId{
+    position: absolute;
+    left:10px;
+    top:10px;
+}
+
+.APO{
+    
+    border: solid 1px rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+.PO{
+  
+    border: solid 1px rgb(0, 0, 0);
+    background-color: #fff;
+}
+
+.APOcontent{
+    /* display: inline-block;
+    margin: 0px auto; */
+    text-align: center;
+}
+
+.boundary{
+    border-radius: 30px;
+    border: 2px dashed rgb(82, 92, 105);
+}
+
+.naviPoint{
+    
+    background-color: rgb(71, 133, 234);
+    border: 2px solid rgb(155, 218, 252);
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}

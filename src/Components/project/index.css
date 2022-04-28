@@ -1,0 +1,32 @@
+
+.liInUl{
+    width: 200px;
+    height: 250px;
+    
+    margin: 20px 0px;
+    margin-left: 37px;
+
+    background-color: rgb(92, 136, 222);
+    display: inline-block;
+    border: 5px solid rgb(128, 201, 246);
+    border-radius: 20px;
+}
+
+.delbtn{
+    font-size: 60px;
+    display: block;
+    text-align: center;
+    margin-top: -40px;
+    color: rgb(103, 130, 165);
+}
+
+.slimg{
+    width: 180px;
+    margin: 0px auto;
+    margin-top: 6px;
+    border-radius: 10px;
+    height: 120px;
+    background-repeat: no-repeat;
+    background-size:contain;
+
+}

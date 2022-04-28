@@ -1,0 +1,22 @@
+.BarForPage{
+    background-color: rgb(128, 214, 230);
+    width: 18%;
+    
+}
+.preservePage{
+    display: block;
+    margin: 20px auto;
+}
+.sizePage{
+    height: 25px;
+    width: 25px;
+    display: inline-block;
+    margin: 20px 10px;
+}
+.size{
+    margin: 20px 15px;
+}
+/* 1.params参数
+路由链接(携带参数)：<Link to='/demo/test/tom/18'}>详情</Link>
+注册路由(声明接收)：<Route path="/demo/test/:name/:age" component={Test}/>
+接收参数：this.props.match.params */

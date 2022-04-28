@@ -1,0 +1,16 @@
+.cantainerofLM{
+    display: flex;
+    flex-direction: row;
+
+    width: 100%;
+
+    height: 100%;
+    background-color: #fff;
+}
+.bigmain{
+    z-index: 3;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: #fff;
+}
